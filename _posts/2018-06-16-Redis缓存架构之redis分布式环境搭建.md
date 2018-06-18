@@ -18,7 +18,7 @@ tags:
 
 ### rdb 
 save 5 1
-
+ 
 ### aof 
 appendonly yes
 appendsync always/no/eveysec
