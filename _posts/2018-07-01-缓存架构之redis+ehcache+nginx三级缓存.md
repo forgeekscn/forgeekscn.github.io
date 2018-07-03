@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      缓存架构之 redis+ehcache+nginx三级缓存
-subtitle:    
+subtitle:    缓存架构之 redis+ehcache+nginx三级缓存
 date:       2018-06-16
 author:     Fogeeksw
 header-img: img/post-bg-re-vs-ng2.jpg
