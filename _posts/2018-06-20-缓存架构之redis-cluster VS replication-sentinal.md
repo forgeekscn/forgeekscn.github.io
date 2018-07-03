@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Redis缓存架构之 redis-cluster VS replication-sentinal
+title:     Redis缓存架构之 redis-cluster VS replication-sentinal
 subtitle:   Redis缓存架构之 redis-cluster VS replication-sentinal
 date:       2018-06-16
 author:     Fogeeks

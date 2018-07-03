@@ -8,8 +8,8 @@ header-img: img/post-bg-re-vs-ng2.jpg
 catalog:    true
 tags:
     - Redis
-    -Ehcache
-    -Nginx
+    - Ehcache
+    - Nginx
 ---
 
 # 缓存架构之 redis+ehcache+nginx三级缓存
