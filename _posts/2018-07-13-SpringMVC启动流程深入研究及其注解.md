@@ -7,9 +7,7 @@ author:   Fogeeks
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - Redis
-    - Nginx
-    - Lua
+    - MySql
 ---
  
 #	数据库索引原理及其优化
