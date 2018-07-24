@@ -10,7 +10,7 @@ tags:
     - HashCode
 ---
  
-#	HashCode与equals方法的联系深入研究
+ #	HashCode与equals方法的联系深入研究
  
  equal()相等的两个对象他们的hashCode()肯定相等，也就是用equal()对比是绝对可靠的。
 

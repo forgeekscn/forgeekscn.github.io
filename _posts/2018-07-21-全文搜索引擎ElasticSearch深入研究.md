@@ -7,9 +7,7 @@ author:   Fogeeks
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - Redis
-    - Nginx
-    - Lua
+    - ElasticSearch
 ---
  
 #	全文搜索引擎ElasticSearch深入研究

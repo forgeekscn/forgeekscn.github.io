@@ -1,16 +1,15 @@
 ---
 layout:  post
-title:		数据库索引原理及其优化
-subtitle:		数据库索引原理及其优化
-date:     2018-07-06
+title:		微服务架构之dubbo+zookeeper的使用
+subtitle:		微服务架构之dubbo+zookeeper的使用
+date:     2018-07-20
 author:   Fogeeks
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - Redis
-    - Nginx
-    - Lua
----
+    - 微服务
+    - dubbo
+    - zookeeper
  
-#	数据库索引原理及其优化
+#	微服务架构之dubbo+zookeeper的使用
  
