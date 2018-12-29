@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c9de52-9215-4b36-84b3-5525727adc4e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-29-手稿" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="github-io-blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,12 +23,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-06-16-快速搭建个人博客.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-06-16-快速搭建个人博客.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-快速搭建个人博客.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="428">
-                <caret line="394" lean-forward="true" selection-start-line="394" selection-end-line="394" />
+                <caret line="394" selection-start-line="394" selection-end-line="394" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-29-手稿" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-29-手稿">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="424">
+                <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
               </first_editor>
               <second_editor />
             </state>
@@ -69,6 +82,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2018-07-13-SpringMVC启动流程深入研究及其注解.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-14-SpringBoot启动原理深入研究及其常用注解.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-29-手稿" />
       </list>
     </option>
   </component>
@@ -93,7 +107,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="204" />
-    <option name="y" value="-1011" />
+    <option name="y" value="69" />
     <option name="width" value="1585" />
     <option name="height" value="808" />
   </component>
@@ -318,7 +332,7 @@
       <workItem from="1529123266446" duration="194000" />
       <workItem from="1529123488125" duration="133000" />
       <workItem from="1532420892841" duration="2739000" />
-      <workItem from="1546068334172" duration="989000" />
+      <workItem from="1546068334172" duration="1724000" />
     </task>
     <task id="LOCAL-00001" summary="07-24-更新">
       <created>1532422815108</created>
@@ -345,10 +359,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4055000" />
+    <option name="totallyTimeSpent" value="4790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1084" width="1920" height="1084" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" />
@@ -790,7 +804,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="428">
-            <caret line="394" lean-forward="true" selection-start-line="394" selection-end-line="394" />
+            <caret line="394" selection-start-line="394" selection-end-line="394" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-29-手稿">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="424">
+            <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
           </first_editor>
           <second_editor />
         </state>
