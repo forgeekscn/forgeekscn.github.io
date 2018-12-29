@@ -1,0 +1,48 @@
+---
+layout:  post
+title:		缓存
+subtitle:		缓存
+date:     2018-12-30
+author:   Fogeeks
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
+tags:
+    - Redis
+    - 缓存
+---
+ 
+# 缓存
+
+- *搭建细节*
+    - redis安装目录 ： ``mkdir -p /usr/local/redis-cluster/redis-5.0.3``
+    - redis启动脚本：
+        ```$xslt
+           cd ../node-1 &&  sudo ../redis-5.0.3/src/redis-server redis.conf
+           cd ../node-2 &&  sudo ../redis-5.0.3/src/redis-server redis.conf
+           cd ../node-3 &&  sudo ../redis-5.0.3/src/redis-server redis.conf
+           cd ../node-4 &&  sudo ../redis-5.0.3/src/redis-server redis.conf
+           cd ../node-5 &&  sudo ../redis-5.0.3/src/redis-server redis.conf
+           cd ../node-6 &&  sudo ../redis-5.0.3/src/redis-server redis.conf
+           ps -ef | grep redis-server
+           sudo redis-5.0.3/src/redis-cli --cluster create 127.0.0.1:7001 127.0.0.1:7002 127.0.0.1:7003 127.0.0.1:7004 127.0.0.1:7005 127.0.0.1:7006  --cluster-replicas 1
+        ```        
+    - 连接redis： ``redis-5.0.3/src/redis-cli -c -p 7001``
+    - 增删redis集群节点
+        ```$xslt
+            redis-5.0.3/src/redis-cli --cluster add-node 127.0.0.1:7002  127.0.0.1:7001
+            redis-5.0.3/src/redis-cli --cluster del-node 127.0.0.1:7002 bd64b831c5fb0a19fe357fc7eef00cfe41c2734d
+        ```
+    - 干翻所有redis: ``ps -ef |grep redis-server  | awk '/cluster/{print$2}' |xargs  kill -9``
+- *缓存方案*
+    - replication sentinal 哨兵
+    - redis cluster 集群
+
+- *如何持久化*
+    - rdb : `` save 900 1 `` , ``save 300 10`` , ``save 60 10000 ``
+    - aof : ``appendonly yes`` , `` appendfsync everysec ``
+    
+- *一致性问题解决方案*
+    - 异步串行化
+
+    
+    
