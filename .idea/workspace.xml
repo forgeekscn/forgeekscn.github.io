@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6c9de52-9215-4b36-84b3-5525727adc4e" name="Default" comment="" />
+    <list default="true" id="d6c9de52-9215-4b36-84b3-5525727adc4e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-30-搜索引擎" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-30-消息队列" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-30-缓存" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/high-concurrency/mq-interview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-29-手稿" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-31-手稿" afterDir="false" />
+    </list>
     <ignored path="github-io-blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -20,25 +27,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-06-16-快速搭建个人博客.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-快速搭建个人博客.md">
+      <file leaf-file-name="2018-12-31-手稿" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-31-手稿">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="428">
-                <caret line="394" selection-start-line="394" selection-end-line="394" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="1407">
+                <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-29-手稿" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-29-手稿">
+      <file leaf-file-name="2018-12-30-消息队列" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-消息队列">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="136">
-                <caret line="296" lean-forward="true" selection-start-line="296" selection-end-line="296" />
-              </first_editor>
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-30-缓存" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-缓存">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-30-搜索引擎" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-搜索引擎">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -80,6 +105,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-07-13-SpringMVC启动流程深入研究及其注解.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-14-SpringBoot启动原理深入研究及其常用注解.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-29-手稿" />
+        <option value="$PROJECT_DIR$/doc/high-concurrency/mq-interview.md" />
       </list>
     </option>
   </component>
@@ -103,12 +129,13 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="204" />
-    <option name="y" value="69" />
-    <option name="width" value="1585" />
-    <option name="height" value="808" />
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1084" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -130,8 +157,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -330,6 +357,7 @@
       <workItem from="1529123488125" duration="133000" />
       <workItem from="1532420892841" duration="2739000" />
       <workItem from="1546068334172" duration="2307000" />
+      <workItem from="1546075182518" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="07-24-更新">
       <created>1532422815108</created>
@@ -363,23 +391,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5373000" />
+    <option name="totallyTimeSpent" value="5681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
+      <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -387,29 +414,29 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.20150054" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.2012848" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
-      <window_info id="JRebel" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="IDEtalk Messages" order="7" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Changes" order="7" />
-      <window_info anchor="bottom" id="Grunt" order="7" />
-      <window_info anchor="right" id="IDEtalk" order="3" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Changes" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Grunt" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="IDEtalk" order="3" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,19 +486,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-22-排序算法深入研究.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -805,21 +819,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-快速搭建个人博客.md">
+    <entry file="file://$PROJECT_DIR$/doc/high-concurrency/mq-interview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="428">
-            <caret line="394" selection-start-line="394" selection-end-line="394" />
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-29-手稿">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-快速搭建个人博客.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="213">
+            <caret line="379" column="17" selection-start-line="379" selection-start-column="17" selection-end-line="379" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-消息队列">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-缓存">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-30-搜索引擎">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-31-手稿">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="136">
-            <caret line="296" lean-forward="true" selection-start-line="296" selection-end-line="296" />
+          <first_editor relative-caret-position="1407">
+            <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
           </first_editor>
           <second_editor />
         </state>
