@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6c9de52-9215-4b36-84b3-5525727adc4e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-29-手稿" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d6c9de52-9215-4b36-84b3-5525727adc4e" name="Default" comment="" />
     <ignored path="github-io-blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -39,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-29-手稿">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="424">
-                <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
+              <first_editor relative-caret-position="136">
+                <caret line="296" lean-forward="true" selection-start-line="296" selection-end-line="296" />
               </first_editor>
               <second_editor />
             </state>
@@ -332,7 +329,7 @@
       <workItem from="1529123266446" duration="194000" />
       <workItem from="1529123488125" duration="133000" />
       <workItem from="1532420892841" duration="2739000" />
-      <workItem from="1546068334172" duration="1724000" />
+      <workItem from="1546068334172" duration="2307000" />
     </task>
     <task id="LOCAL-00001" summary="07-24-更新">
       <created>1532422815108</created>
@@ -355,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546068552942</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update">
+      <created>1546070106039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546070106039</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4790000" />
+    <option name="totallyTimeSpent" value="5373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -451,7 +455,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="07-24-更新" />
     <MESSAGE value="07-24-更新2" />
-    <option name="LAST_COMMIT_MESSAGE" value="07-24-更新2" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/feed.xml">
@@ -813,8 +818,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-29-手稿">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="424">
-            <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
+          <first_editor relative-caret-position="136">
+            <caret line="296" lean-forward="true" selection-start-line="296" selection-end-line="296" />
           </first_editor>
           <second_editor />
         </state>
