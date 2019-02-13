@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6c9de52-9215-4b36-84b3-5525727adc4e" name="Default" comment="" />
+    <list default="true" id="d6c9de52-9215-4b36-84b3-5525727adc4e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="github-io-blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -391,10 +393,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10879000" />
+    <option name="totallyTimeSpent" value="11126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="-4" width="1877" height="1084" extended-state="6" />
+    <frame x="-1877" y="-4" width="1877" height="1084" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -417,11 +419,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.30620986" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.30620986" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32976446" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32976446" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23731588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23731588" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
